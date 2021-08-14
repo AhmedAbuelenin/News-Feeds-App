@@ -1,0 +1,3 @@
+export const CONNECTION_ERROR = 'CONNECTION_ERROR';
+export const GENERAL_ERROR = 'GENERAL_ERROR';
+export const CANCEL = 'CANCEL';
