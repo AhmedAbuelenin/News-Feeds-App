@@ -13,7 +13,7 @@ import {
   showError,
 } from '../../common/base/index';
 import Articles from '../../components/articles/Articles';
-import {styles} from '../../components/articles/styles';
+import { styles } from '../../components/articles/styles';
 
 const Home = ({navigation, route}) => {
   const keyword = route.params?.keyword;

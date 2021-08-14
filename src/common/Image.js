@@ -5,7 +5,6 @@ import {ActivityIndicator} from 'react-native';
 import {Image} from 'react-native-elements';
 import {AppIndicator, AppView} from './base';
 import {defStyles} from './defaults/styles';
-import ValidError from './ValidError';
 
 const AppImage = props => {
   const {
